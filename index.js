@@ -1,5 +1,5 @@
 function copyAddress() {
-    navigator.clipboard.writeText("0x96EdaF14f582a68907101a58D37D7C38EA0878f1")
+    navigator.clipboard.writeText("0x62059318f97B2DfB6E222e90E3b4A2E5c85AfFf2")
 }
 
 function onLinkClick(section) {
